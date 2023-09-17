@@ -29,7 +29,7 @@ dependencies:
   template_expressions: '^3.1.2'
   uuid: '^4.0.0'
   yaml_writer: ^1.0.3
-  yaon: '^1.1.2+3'
+  yaon:
 
 dev_dependencies:
   build_runner: '^2.3.3'
