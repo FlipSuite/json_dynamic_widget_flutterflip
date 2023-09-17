@@ -26,7 +26,7 @@ dependencies:
   # needed to resolve a bug with build_runner and logging@1.2.0
   logging: '>=1.0.0 <1.2.0'
   meta: '^1.9.1'
-  template_expressions: '^3.1.2'
+  template_expressions:
   uuid: '^4.0.0'
   yaml_writer: ^1.0.3
   yaon:
